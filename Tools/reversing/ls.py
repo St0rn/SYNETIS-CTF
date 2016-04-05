@@ -5,7 +5,7 @@
 # Contact: fabien.dromas@synetis.com
 #
 # Le££e CTF Team
-# Le££e toi et marche!
+# Le££e toi et marche!!
 
 import commands
 from os import system
