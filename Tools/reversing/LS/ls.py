@@ -86,7 +86,7 @@ def hook(bin):
 
 if __name__ == '__main__':
  if len(argv)<2:
-  print "Usage: python %s fucking_binary optional_args" %argv[0]
+  print "Usage: python %s binary optional_args" %argv[0]
   exit(0)
  else:
   bin=argv[1]
